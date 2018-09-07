@@ -1,0 +1,17 @@
+.keylinks {
+    color: black;
+    text-decoration: none;
+    margin: 0%;
+    padding: 8px;
+}
+
+.images {
+    display: inline;
+    margin-left: 5;
+}
+
+li.image-list {
+    padding: 0.5rem;
+    display: inline;
+    margin-left: 0;
+}
